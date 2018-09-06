@@ -14,7 +14,6 @@ import Vuex from './pages/Vuex.vue'
 export default [
     { path: '/', component: Home },
     { path: '/about', component: About },
-    // { path: '/product:id', component: Product },
     { path: '/product', component: Product },
     { path: '/form', component: Form },
     { path: '/customer', component: Customer },
